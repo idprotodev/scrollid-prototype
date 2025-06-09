@@ -23,3 +23,10 @@ If you're from Scroll and would like to discuss or acquire scrollid.eth, feel fr
 - ENS name: `scrollid.eth`
 - Demo subdomain: `demo.scrollid.eth`
 - Live demo: [https://lovely-pithivier-b298c3.netlify.app](https://lovely-pithivier-b298c3.netlify.app)
+
+## 🖼️ UI Preview
+
+The following screenshot shows the live demo interface:
+
+![ScrollID Demo](assets/scrollid_demo.png)
+
