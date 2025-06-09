@@ -16,3 +16,10 @@ This is an open prototype not affiliated with Scroll. MIT licensed. The ENS `scr
 
 ## 👋 Contact
 If you're from Scroll and would like to discuss or acquire scrollid.eth, feel free to reach out via the email address provided in the ENS text record.
+---
+
+## 🔗 ENS Integration
+
+- ENS name: `scrollid.eth`
+- Demo subdomain: `demo.scrollid.eth`
+- Live demo: [https://lovely-pithivier-b298c3.netlify.app](https://lovely-pithivier-b298c3.netlify.app)
